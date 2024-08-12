@@ -1,0 +1,14 @@
+/home/rapha/Desktop/grafo/bin/Debug/net8.0/grafo
+/home/rapha/Desktop/grafo/bin/Debug/net8.0/grafo.deps.json
+/home/rapha/Desktop/grafo/bin/Debug/net8.0/grafo.runtimeconfig.json
+/home/rapha/Desktop/grafo/bin/Debug/net8.0/grafo.dll
+/home/rapha/Desktop/grafo/bin/Debug/net8.0/grafo.pdb
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.AssemblyInfoInputs.cache
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.AssemblyInfo.cs
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.csproj.CoreCompileInputs.cache
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.dll
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/refint/grafo.dll
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.pdb
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/grafo.genruntimeconfig.cache
+/home/rapha/Desktop/grafo/obj/Debug/net8.0/ref/grafo.dll

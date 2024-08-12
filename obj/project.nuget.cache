@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBcoQPtqoRc=",
+  "success": true,
+  "projectFilePath": "/home/rapha/Desktop/grafo/grafo.csproj",
+  "expectedPackageFiles": [
+    "/home/rapha/.nuget/packages/microsoft.netcore.app.ref/8.0.7/microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "/home/rapha/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "/home/rapha/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.7/microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
